@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 Where I fight bugs: 
 [![RoboContest stats](https://robocontest-badge-generator-five.vercel.app/api/badge?username=nesamandar)](https://robocontest.uz/profile/nesamandar)
-[![LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/sant1x?theme=dark)](https://leetcode.com/u/sant1x)
+[![LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/sant1x?theme=dark&bgColor=282828)](https://leetcode.com/u/sant1x)
 
 
 # 💻 Tech Stack:
