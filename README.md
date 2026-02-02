@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nsamandarr) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/bookvampire5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samandarnorboyev059@gmail.com) 
 
 ## 🧑‍💻 Where I fight bugs: 
-[![RoboContest stats](https://robocontest-badge-generator-five.vercel.app/api/badge?username=nesam)](https://robocontest.uz/profile/nesamandar)
+[![RoboContest stats](https://robocontest-badge-generator-five.vercel.app/api/badge?username=nesamandar)](https://robocontest.uz/profile/nesamandar)
 [![LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/sant1x?theme=dark)](https://leetcode.com/u/sant1x)
 
 
